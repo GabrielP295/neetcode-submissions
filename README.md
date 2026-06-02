@@ -10,4 +10,4 @@ This repository tracks my progress through a variety of different **Leetcode** p
 ## Language & Tools
 - **Language:** Java 21 and Java 25
 - **Environment:** LeetCode / NeetCode
-- **Syncing:** [LeetHub](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=en) (Auto sync submissions)
+- **Syncing:** NeetCode Syncing
